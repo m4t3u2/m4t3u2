@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Mateus 👋 
 
-<!--
-**m4t3u2/m4t3u2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](./img/img-link-site.png)](https://simon.dev.br)
 
-Here are some ideas to get you started:
+## I'm a Developer and...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 At the moment I'm working with Java and Angular
+- 🌱 I’m currently learning everything 🤣
+- 👯 I'm looking to collaborate with Open Source Projects
+- 🥅 2022 Goals: Learn more about WEB3 and Cybersecurity
+- ⚡ Fun fact: I like to climb mountains 🌄⛺🤣
+
+### Connect with me:
+
+[![Website](./img/globe-light.svg)](https://simon.dev.br#gh-light-mode-only)
+[![Website](./img/globe-dark.svg)](https://simon.dev.br#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC4K3OA_wnpclo47O2V7Mfxg#gh-light-mode-only)
+[![Website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC4K3OA_wnpclo47O2V7Mfxg#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Website](./img/linkedin-light.svg)](https://linkedin.com/in/#gh-light-mode-only)
+[![Website](./img/linkedin-dark.svg)](https://linkedin.com/in/#gh-dark-mode-only)
