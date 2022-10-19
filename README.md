@@ -1,14 +1,14 @@
-# Hi there, I'm Mateus 👋 
+# Hi there, I'm Mateus!! 👋 
 
 [![Website](./img/img-link-site.png)](https://simon.dev.br)
 
 ## I'm a Developer and...
 
-- 🔭 At the moment I'm working with Java and Angular
-- 🌱 I’m currently learning everything 🤣
-- 👯 I'm looking to collaborate with Open Source Projects
-- 🥅 2022 Goals: Learn more about WEB3 and Cybersecurity
-- ⚡ Fun fact: I like to climb mountains 🌄⛺🤣
+- 🔭 At the moment I'm working with Java API's and Angular.
+- 🌱 I’m currently learning everything, most of the time, about new technologies!
+- 👯 I'm looking to collaborate with Open Source Projects.
+- 🥅 2022 Goals: Learn Go Language!
+- ⚡ Fun fact: I like to climb mountains! 🌄⛺🤣
 
 ### Connect with me:
 
