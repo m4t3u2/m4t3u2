@@ -4,10 +4,10 @@
 
 ## I'm a Developer and...
 
-- 🔭 At the moment I'm working with Java API's and Angular.
+- 🔭 At the moment I'm working with Java Microservices API's.
 - 🌱 I’m currently learning everything, most of the time, about new technologies!
 - 👯 I'm looking to collaborate with Open Source Projects.
-- 🥅 2022 Goals: Learn Go Language!
+- 🥅 2023 Goals: Learn Go Language!
 - ⚡ Fun fact: I like to climb mountains! 🌄⛺🤣
 
 ### Connect with me:
